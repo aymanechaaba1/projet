@@ -1,0 +1,213 @@
+html,
+body 
+
+body{background-color: blanchedalmond;}
+header{display:flex;
+       flex-direction:row;
+       align-items:center;
+       gap: 20px;
+       background-color:#f5e9dc;
+       padding:0;
+}
+header img{
+    width:120px;
+    height:100px;
+}
+.ziza{
+    color: rgb(187, 141, 25);
+    font-style: italic;
+    font-size: 30px;
+    margin: 0;
+}
+.zoza{
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+    padding:0;
+    margin: 0;
+}
+.hiha{
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+    list-style: none;
+}
+.lala{color: black;
+      text-decoration: none;
+}
+.lalo{color: white;
+      text-decoration: none;
+      border-radius:20px 20px 20px 20px;
+      border:solid rgba(45, 31, 13, 0.6);
+      background-color:rgba(45, 31, 13, 0.6);
+      padding:10px 10px;
+}
+.zahira{background-image:url(logo2.jpeg);
+       background-size:cover;
+       background-position: center;
+       background-repeat: no-repeat;
+       margin:0;
+       padding:0;
+       display:flex;
+       justify-content:space-between;
+}
+.wawa{color:bisque;
+    position: relative;
+    top:10px;
+}
+.wawo{color: beige;
+}
+.wiwi{color: bisque;
+    position: relative;
+      bottom:15px;
+}
+.div2{margin:20px;}
+.decou{color: black;
+     border: solid burlywood;
+     border-radius: 500px;
+     text-decoration:none; 
+     background-color: burlywood;
+     position: relative;
+     bottom: 10px;
+     border-width:10px;
+}
+.div3{
+    border: solid burlywood;
+    width: 250px;
+    border-radius: 20px;
+    background-color: burlywood;
+    margin:16px;
+}
+.wuwu{margin:16px;
+    position: relative;
+      top:20px;
+}
+.Voir{color: white;
+      text-decoration:none;
+      border:solid rgb(66, 47, 23);
+      border-radius:50px;
+      background-color:rgb(66, 47, 23);
+      margin:26px;
+      border-width:15px;
+      position: relative;
+      top: 30px;
+}
+.cola{font-size:40px;
+    position: relative;
+      bottom: 26px;
+      margin: 26px;
+}
+.cila{position: relative;
+      bottom:50px;
+      margin: 26px;
+}
+.logo3{
+    height:100px;
+    border-radius:50%;
+    position: relative;
+    bottom:80px;
+    margin: 26px;
+}
+.how{position: relative;
+     bottom:130px;
+     margin:26px;;
+}
+.lap{margin: 30px;
+    position: relative;
+    bottom: 150px;
+
+}
+.ligne-verticale{width:2px;
+                 height: 150px;
+                 background-color: gray;
+                 margin:190px;
+                 position: relative;
+                 bottom: 500px;
+}
+.logo4{
+    height:100px;
+    border-radius:50%;
+    position: relative;
+    bottom:680px;
+    margin: 26px;
+}
+.haw{margin:26px;
+     position: relative;
+     bottom:730px;
+}
+.lop{margin:26px;
+     position: relative;
+     bottom: 750px;;
+}
+.ligne-verticale1{width:2px;
+                 height: 150px;
+                 background-color: gray;
+                 margin:190px;
+                 position: relative;
+                 bottom: 1100px;
+}
+.logo5{
+    height:100px;
+    border-radius:50%;
+    position: relative;
+    bottom:775px;
+    margin: 26px;
+}
+.paw{margin:20px;
+     position: relative;
+     bottom:820px;
+}
+.det{margin:30px;
+     position: relative;
+     bottom: 834px;
+}
+
+.ligne-verticale2{width:2px;
+                 height: 150px;
+                 background-color: gray;
+                 margin:190px;
+                 position: relative;
+                 bottom: 1700px;
+}
+.logo6{
+    height:100px;
+    border-radius:50%;
+    position: relative;
+    bottom:775px;
+    margin: 26px;
+}
+.raw{margin:20px;
+     position: relative;
+     bottom:820px;
+}
+.Coiffure{margin:30px;
+     position: relative;
+     bottom: 834px;
+}
+
+.ligne-verticale3{width:2px;
+                 height: 150px;
+                 background-color: gray;
+                 margin:190px;
+                 position: relative;
+                 bottom: 2300px;
+}
+.logo7{ height:100px;
+    border-radius:50%;
+    position: relative;
+    bottom:775px;
+    margin: 26px;
+}
+.vow{margin:20px;
+      position: relative;
+     bottom:820px;
+}
+.lip{margin:30px;
+     position: relative;
+     bottom: 840px;
+}
+
+
+.cart {
+    display: flex;
+}
